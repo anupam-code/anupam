@@ -27,7 +27,6 @@ void process4()
 
 int main()
 { 
-/*Call the rocess accordingly */
 	process1();
 	process2();
 	process3();
